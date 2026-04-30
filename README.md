@@ -8,7 +8,17 @@
 *   **Java 17+** 
 *   **Git & GitHub** para versionamento
 ---
+## 📁 Estrutura do Projeto
 
+<div align="justify">
+Todas as atividades estão organizadas dentro do diretório principal:
+</div>
+
+`src/`
+
+<div align="justify">
+Dentro dele, cada pasta representa uma atividade, para acessar qualquer exercício, basta navegar até a pasta src/.
+  
 ## 👤 Autor
 Desenvolvido por **Divanildo Simões** 
 
